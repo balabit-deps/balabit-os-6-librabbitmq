@@ -1,3 +1,11 @@
+librabbitmq (0.7.1-1ubuntu0.1) xenial; urgency=medium
+
+  * d/patches: Add fix-parameter-processing.patch to correct handling of
+    --server, --url, and other options by reorganizing the logic flow.
+    (LP: #1790657)
+
+ -- Bryce Harrington <bryce@canonical.com>  Mon, 08 Jul 2019 20:19:04 -0700
+
 librabbitmq (0.7.1-1) unstable; urgency=medium
 
   * New upstream release.

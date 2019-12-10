@@ -1,7 +1,8 @@
 Source: librabbitmq
 Priority: optional
 Section: libs
-Maintainer: Michael Fladischer <fladi@debian.org>
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+XSBC-Original-Maintainer: Michael Fladischer <fladi@debian.org>
 Uploaders: Brian May <bam@debian.org>
 Build-Depends: cmake,
                debhelper (>= 9),
